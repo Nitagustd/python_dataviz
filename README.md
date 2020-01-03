@@ -1,5 +1,5 @@
 # นางสาวศุภนิตา   ดาดวน    603021129-1
-![nita](000032.jpg)
+![nita](000032.JPG)
 ## วิธีการinstall python +packgate
 ## วิธีการinstall  colab 
 ## วิธีการใช้้งาน github
